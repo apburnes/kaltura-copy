@@ -1,0 +1,9 @@
+version: '2'
+services:
+  copy:
+    image: node:10.5-stretch
+    volumes:
+      - .:/app
+    working_dir: /app
+    env_file: .env
+    tty: true
