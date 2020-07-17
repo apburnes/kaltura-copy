@@ -13,7 +13,7 @@
     "date-fns": "^1.29.0",
     "kaltura": "^3.3.3",
     "kaltura-client": "^1.0.10",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "vorpal": "^1.12.0"
   }
 }
